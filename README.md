@@ -1,4 +1,4 @@
-# YtDownloader# 🎵 YtDownloader
+# YtDownloader 🎵 YtDownloader
 
 **YtDownloader** is a mobile app that allows users to download audio from YouTube videos quickly and easily. The goal of the app is to provide a clean, intuitive interface for pasting YouTube links, fetching video metadata, and downloading high-quality audio files.
 
@@ -27,5 +27,5 @@
 2. Start the app
 
    ```bash
-   npm start
-   `
+   npx expo start
+   
